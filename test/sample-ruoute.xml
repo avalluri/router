@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<MTRXML version="1.0">
+	<ROUTE from="start" to="dest">
+		<LENGTH time="17.400" dist="5581.695"/>
+		<POINT uid="start" x="2546445.0" y="6675512.0">
+			<ARRIVAL date="20121106" time="0008"/>
+			<DEPARTURE date="20121106" time="0008"/>
+		</POINT>
+		<WALK>
+			<LENGTH time="0.000" dist="12.454"/>
+			<POINT uid="start" x="2546445.0" y="6675512.0">
+				<ARRIVAL date="20121106" time="0008"/>
+				<DEPARTURE date="20121106" time="0008"/>
+			</POINT>
+			<STOP code="6:2222208" x="2546445.0" y="6675512.0" id="3313">
+				<ARRIVAL date="20121106" time="0008"/>
+				<DEPARTURE date="20121106" time="0008"/>
+				<NAME lang="1" val="Teekkarikylä"/>
+				<NAME lang="2" val="Teknologbyn"/>
+			</STOP>
+		</WALK>
+		<LINE id="656" code="2195N 2" type="5" mobility="3">
+			<LENGTH time="5.000" dist="4679.281"/>
+			<STOP code="6:2222208" x="2546445.0" y="6675512.0" id="3313" ord="41">
+				<ARRIVAL date="20121106" time="0008"/>
+				<DEPARTURE date="20121106" time="0008"/>
+				<NAME lang="1" val="Teekkarikylä"/>
+				<NAME lang="2" val="Teknologbyn"/>
+			</STOP>
+			<STOP code="6:2222204" x="2546337.0" y="6674857.0" id="3309">
+				<ARRIVAL date="20121106" time="0009"/>
+				<DEPARTURE date="20121106" time="0009"/>
+				<NAME lang="1" val="Dipoli"/>
+				<NAME lang="2" val="Dipoli"/>
+			</STOP>
+			<STOP code="6:2222202" x="2546597.0" y="6674531.0" id="3307">
+				<ARRIVAL date="20121106" time="0010"/>
+				<DEPARTURE date="20121106" time="0010"/>
+				<NAME lang="1" val="Otaniemenristi"/>
+				<NAME lang="2" val="Otnäskorset"/>
+			</STOP>
+			<STOP code="6:1303114" x="2547330.0" y="6674728.0" id="10019">
+				<ARRIVAL date="20121106" time="0011"/>
+				<DEPARTURE date="20121106" time="0011"/>
+				<NAME lang="1" val="Lehtisaarentie"/>
+				<NAME lang="2" val="Lövövägen"/>
+			</STOP>
+			<STOP code="6:1302219" x="2547825.0" y="6675077.0" id="1325">
+				<ARRIVAL date="20121106" time="0011"/>
+				<DEPARTURE date="20121106" time="0011"/>
+				<NAME lang="1" val="Kuusisaarenkuja"/>
+				<NAME lang="2" val="Granögränd"/>
+			</STOP>
+			<STOP code="6:1302217" x="2548416.0" y="6675339.0" id="1323">
+				<ARRIVAL date="20121106" time="0012"/>
+				<DEPARTURE date="20121106" time="0012"/>
+				<NAME lang="1" val="Kuusiniementie"/>
+				<NAME lang="2" val="Granuddsvägen"/>
+			</STOP>
+			<STOP code="6:1301215" x="2548995.0" y="6675951.0" id="1308" ord="47">
+				<ARRIVAL date="20121106" time="0013"/>
+				<DEPARTURE date="20121106" time="0013"/>
+				<NAME lang="1" val="Saunalahti"/>
+				<NAME lang="2" val="Bastuviken"/>
+			</STOP>
+		</LINE>
+		<WALK>
+			<LENGTH time="12.400" dist="889.960"/>
+			<STOP code="6:1301215" x="2548995.0" y="6675951.0" id="1308">
+				<ARRIVAL date="20121106" time="0013"/>
+				<DEPARTURE date="20121106" time="0013"/>
+				<NAME lang="1" val="Saunalahti"/>
+				<NAME lang="2" val="Bastuviken"/>
+			</STOP>
+			<MAPLOC x="2549151.3" y="6676025.4" type="0">
+				<ARRIVAL date="20121106" time="0015"/>
+				<DEPARTURE date="20121106" time="0015"/>
+				<NAME lang="1" val="Meilahdentie"/>
+			</MAPLOC>
+			<MAPLOC x="2549201.7" y="6675964.0" type="0">
+				<ARRIVAL date="20121106" time="0017"/>
+				<DEPARTURE date="20121106" time="0017"/>
+			</MAPLOC>
+			<MAPLOC x="2549211.7" y="6675955.2" type="0">
+				<ARRIVAL date="20121106" time="0017"/>
+				<DEPARTURE date="20121106" time="0017"/>
+			</MAPLOC>
+			<MAPLOC x="2549230.1" y="6675833.2" type="0">
+				<ARRIVAL date="20121106" time="0019"/>
+				<DEPARTURE date="20121106" time="0019"/>
+				<NAME lang="1" val="Tamminiementie"/>
+			</MAPLOC>
+			<MAPLOC x="2549239.9" y="6675833.2" type="0">
+				<ARRIVAL date="20121106" time="0019"/>
+				<DEPARTURE date="20121106" time="0019"/>
+				<NAME lang="1" val="Tamminiementie"/>
+			</MAPLOC>
+			<MAPLOC x="2549248.4" y="6675686.6" type="0">
+				<ARRIVAL date="20121106" time="0021"/>
+				<DEPARTURE date="20121106" time="0021"/>
+			</MAPLOC>
+			<MAPLOC x="2549276.5" y="6675640.0" type="0">
+				<ARRIVAL date="20121106" time="0022"/>
+				<DEPARTURE date="20121106" time="0022"/>
+				<NAME lang="1" val="Tamminiementie"/>
+			</MAPLOC>
+			<MAPLOC x="2549295.6" y="6675562.3" type="0">
+				<ARRIVAL date="20121106" time="0023"/>
+				<DEPARTURE date="20121106" time="0023"/>
+				<NAME lang="1" val="Seurasaarentie"/>
+			</MAPLOC>
+			<MAPLOC x="2549325.0" y="6675551.3" type="0">
+				<ARRIVAL date="20121106" time="0023"/>
+				<DEPARTURE date="20121106" time="0023"/>
+			</MAPLOC>
+			<POINT uid="dest" x="2549445.0" y="6675513.0">
+				<ARRIVAL date="20121106" time="0025"/>
+				<DEPARTURE date="20121106" time="0025"/>
+			</POINT>
+		</WALK>
+		<POINT uid="dest" x="2549445.0" y="6675513.0">
+			<ARRIVAL date="20121106" time="0025"/>
+			<DEPARTURE date="20121106" time="0025"/>
+		</POINT>
+	</ROUTE>
+	<ROUTE from="start" to="dest">
+		<LENGTH time="17.400" dist="5581.695"/>
+		<POINT uid="start" x="2546445.0" y="6675512.0">
+			<ARRIVAL date="20121106" time="0038"/>
+			<DEPARTURE date="20121106" time="0038"/>
+		</POINT>
+		<WALK>
+			<LENGTH time="0.000" dist="12.454"/>
+			<POINT uid="start" x="2546445.0" y="6675512.0">
+				<ARRIVAL date="20121106" time="0038"/>
+				<DEPARTURE date="20121106" time="0038"/>
+			</POINT>
+			<STOP code="6:2222208" x="2546445.0" y="6675512.0" id="3313">
+				<ARRIVAL date="20121106" time="0038"/>
+				<DEPARTURE date="20121106" time="0038"/>
+				<NAME lang="1" val="Teekkarikylä"/>
+				<NAME lang="2" val="Teknologbyn"/>
+			</STOP>
+		</WALK>
+		<LINE id="656" code="2195N 2" type="5" mobility="3">
+			<LENGTH time="5.000" dist="4679.281"/>
+			<STOP code="6:2222208" x="2546445.0" y="6675512.0" id="3313" ord="41">
+				<ARRIVAL date="20121106" time="0038"/>
+				<DEPARTURE date="20121106" time="0038"/>
+				<NAME lang="1" val="Teekkarikylä"/>
+				<NAME lang="2" val="Teknologbyn"/>
+			</STOP>
+			<STOP code="6:2222204" x="2546337.0" y="6674857.0" id="3309">
+				<ARRIVAL date="20121106" time="0039"/>
+				<DEPARTURE date="20121106" time="0039"/>
+				<NAME lang="1" val="Dipoli"/>
+				<NAME lang="2" val="Dipoli"/>
+			</STOP>
+			<STOP code="6:2222202" x="2546597.0" y="6674531.0" id="3307">
+				<ARRIVAL date="20121106" time="0040"/>
+				<DEPARTURE date="20121106" time="0040"/>
+				<NAME lang="1" val="Otaniemenristi"/>
+				<NAME lang="2" val="Otnäskorset"/>
+			</STOP>
+			<STOP code="6:1303114" x="2547330.0" y="6674728.0" id="10019">
+				<ARRIVAL date="20121106" time="0041"/>
+				<DEPARTURE date="20121106" time="0041"/>
+				<NAME lang="1" val="Lehtisaarentie"/>
+				<NAME lang="2" val="Lövövägen"/>
+			</STOP>
+			<STOP code="6:1302219" x="2547825.0" y="6675077.0" id="1325">
+				<ARRIVAL date="20121106" time="0041"/>
+				<DEPARTURE date="20121106" time="0041"/>
+				<NAME lang="1" val="Kuusisaarenkuja"/>
+				<NAME lang="2" val="Granögränd"/>
+			</STOP>
+			<STOP code="6:1302217" x="2548416.0" y="6675339.0" id="1323">
+				<ARRIVAL date="20121106" time="0042"/>
+				<DEPARTURE date="20121106" time="0042"/>
+				<NAME lang="1" val="Kuusiniementie"/>
+				<NAME lang="2" val="Granuddsvägen"/>
+			</STOP>
+			<STOP code="6:1301215" x="2548995.0" y="6675951.0" id="1308" ord="47">
+				<ARRIVAL date="20121106" time="0043"/>
+				<DEPARTURE date="20121106" time="0043"/>
+				<NAME lang="1" val="Saunalahti"/>
+				<NAME lang="2" val="Bastuviken"/>
+			</STOP>
+		</LINE>
+		<WALK>
+			<LENGTH time="12.400" dist="889.960"/>
+			<STOP code="6:1301215" x="2548995.0" y="6675951.0" id="1308">
+				<ARRIVAL date="20121106" time="0043"/>
+				<DEPARTURE date="20121106" time="0043"/>
+				<NAME lang="1" val="Saunalahti"/>
+				<NAME lang="2" val="Bastuviken"/>
+			</STOP>
+			<MAPLOC x="2549151.3" y="6676025.4" type="0">
+				<ARRIVAL date="20121106" time="0045"/>
+				<DEPARTURE date="20121106" time="0045"/>
+				<NAME lang="1" val="Meilahdentie"/>
+			</MAPLOC>
+			<MAPLOC x="2549201.7" y="6675964.0" type="0">
+				<ARRIVAL date="20121106" time="0047"/>
+				<DEPARTURE date="20121106" time="0047"/>
+			</MAPLOC>
+			<MAPLOC x="2549211.7" y="6675955.2" type="0">
+				<ARRIVAL date="20121106" time="0047"/>
+				<DEPARTURE date="20121106" time="0047"/>
+			</MAPLOC>
+			<MAPLOC x="2549230.1" y="6675833.2" type="0">
+				<ARRIVAL date="20121106" time="0049"/>
+				<DEPARTURE date="20121106" time="0049"/>
+				<NAME lang="1" val="Tamminiementie"/>
+			</MAPLOC>
+			<MAPLOC x="2549239.9" y="6675833.2" type="0">
+				<ARRIVAL date="20121106" time="0049"/>
+				<DEPARTURE date="20121106" time="0049"/>
+				<NAME lang="1" val="Tamminiementie"/>
+			</MAPLOC>
+			<MAPLOC x="2549248.4" y="6675686.6" type="0">
+				<ARRIVAL date="20121106" time="0051"/>
+				<DEPARTURE date="20121106" time="0051"/>
+			</MAPLOC>
+			<MAPLOC x="2549276.5" y="6675640.0" type="0">
+				<ARRIVAL date="20121106" time="0052"/>
+				<DEPARTURE date="20121106" time="0052"/>
+				<NAME lang="1" val="Tamminiementie"/>
+			</MAPLOC>
+			<MAPLOC x="2549295.6" y="6675562.3" type="0">
+				<ARRIVAL date="20121106" time="0053"/>
+				<DEPARTURE date="20121106" time="0053"/>
+				<NAME lang="1" val="Seurasaarentie"/>
+			</MAPLOC>
+			<MAPLOC x="2549325.0" y="6675551.3" type="0">
+				<ARRIVAL date="20121106" time="0053"/>
+				<DEPARTURE date="20121106" time="0053"/>
+			</MAPLOC>
+			<POINT uid="dest" x="2549445.0" y="6675513.0">
+				<ARRIVAL date="20121106" time="0055"/>
+				<DEPARTURE date="20121106" time="0055"/>
+			</POINT>
+		</WALK>
+		<POINT uid="dest" x="2549445.0" y="6675513.0">
+			<ARRIVAL date="20121106" time="0055"/>
+			<DEPARTURE date="20121106" time="0055"/>
+		</POINT>
+	</ROUTE>
+	<ROUTE from="start" to="dest">
+		<LENGTH time="45.828" dist="15285.563"/>
+		<POINT uid="start" x="2546445.0" y="6675512.0">
+			<ARRIVAL date="20121106" time="0054"/>
+			<DEPARTURE date="20121106" time="0054"/>
+		</POINT>
+		<WALK>
+			<LENGTH time="9.786" dist="697.044"/>
+			<POINT uid="start" x="2546445.0" y="6675512.0">
+				<ARRIVAL date="20121106" time="0054"/>
+				<DEPARTURE date="20121106" time="0054"/>
+			</POINT>
+			<MAPLOC x="2546433.8" y="6675498.3" type="0">
+				<ARRIVAL date="20121106" time="0054"/>
+				<DEPARTURE date="20121106" time="0054"/>
+				<NAME lang="1" val="Teekkaripolku"/>
+			</MAPLOC>
+			<MAPLOC x="2546267.7" y="6675281.4" type="0">
+				<ARRIVAL date="20121106" time="0058"/>
+				<DEPARTURE date="20121106" time="0058"/>
+			</MAPLOC>
+			<MAPLOC x="2546249.2" y="6675209.5" type="0">
+				<ARRIVAL date="20121106" time="0059"/>
+				<DEPARTURE date="20121106" time="0059"/>
+			</MAPLOC>
+			<MAPLOC x="2546173.0" y="6675195.3" type="0">
+				<ARRIVAL date="20121106" time="0100"/>
+				<DEPARTURE date="20121106" time="0100"/>
+			</MAPLOC>
+			<MAPLOC x="2546078.9" y="6675158.1" type="0">
+				<ARRIVAL date="20121106" time="0102"/>
+				<DEPARTURE date="20121106" time="0102"/>
+			</MAPLOC>
+			<MAPLOC x="2546056.6" y="6675081.8" type="0">
+				<ARRIVAL date="20121106" time="0103"/>
+				<DEPARTURE date="20121106" time="0103"/>
+				<NAME lang="1" val="Otaniementie"/>
+			</MAPLOC>
+			<MAPLOC x="2546055.6" y="6675078.0" type="0">
+				<ARRIVAL date="20121106" time="0103"/>
+				<DEPARTURE date="20121106" time="0103"/>
+				<NAME lang="1" val="Otaniementie"/>
+			</MAPLOC>
+			<STOP code="6:2222233" x="2546081.0" y="6675067.0" id="3328">
+				<ARRIVAL date="20121106" time="0104"/>
+				<DEPARTURE date="20121106" time="0104"/>
+				<NAME lang="1" val="Alvar Aallon puisto"/>
+				<NAME lang="2" val="Alvar Aaltos park"/>
+			</STOP>
+		</WALK>
+		<LINE id="722" code="2550  2" type="5" mobility="3">
+			<LENGTH time="11.000" dist="8528.803"/>
+			<STOP code="6:2222233" x="2546081.0" y="6675067.0" id="3328" ord="4">
+				<ARRIVAL date="20121106" time="0104"/>
+				<DEPARTURE date="20121106" time="0104"/>
+				<NAME lang="1" val="Alvar Aallon puisto"/>
+				<NAME lang="2" val="Alvar Aaltos park"/>
+			</STOP>
+			<STOP code="6:2222222" x="2545860.0" y="6675272.0" id="3321">
+				<ARRIVAL date="20121106" time="0104"/>
+				<DEPARTURE date="20121106" time="0104"/>
+				<NAME lang="1" val="Konemies"/>
+				<NAME lang="2" val="Maskinbyggaren"/>
+			</STOP>
+			<STOP code="6:2222225" x="2545294.0" y="6675232.0" id="3324">
+				<ARRIVAL date="20121106" time="0105"/>
+				<DEPARTURE date="20121106" time="0105"/>
+				<NAME lang="1" val="Innopoli"/>
+				<NAME lang="2" val="Innopoli"/>
+			</STOP>
+			<STOP code="6:2222268" x="2545084.0" y="6675338.0" id="3331">
+				<ARRIVAL date="20121106" time="0106"/>
+				<DEPARTURE date="20121106" time="0106"/>
+				<NAME lang="1" val="Maarinsilta"/>
+				<NAME lang="2" val="Marbron"/>
+			</STOP>
+			<STOP code="6:2122220" x="2545131.0" y="6676813.0" id="2985">
+				<ARRIVAL date="20121106" time="0108"/>
+				<DEPARTURE date="20121106" time="0108"/>
+				<NAME lang="1" val="Turvesuontie"/>
+				<NAME lang="2" val="Torvmossvägen"/>
+			</STOP>
+			<STOP code="6:2121202" x="2545452.0" y="6677378.0" id="2970">
+				<ARRIVAL date="20121106" time="0109"/>
+				<DEPARTURE date="20121106" time="0109"/>
+				<NAME lang="1" val="Laajalahdenristi"/>
+				<NAME lang="2" val="Bredvikskorset"/>
+			</STOP>
+			<STOP code="6:2118264" x="2545449.0" y="6678330.0" id="2959">
+				<ARRIVAL date="20121106" time="0110"/>
+				<DEPARTURE date="20121106" time="0110"/>
+				<NAME lang="1" val="Säterinmetsä"/>
+				<NAME lang="2" val="Säteriskogen"/>
+			</STOP>
+			<STOP code="6:2112262" x="2545471.0" y="6678906.0" id="2878">
+				<ARRIVAL date="20121106" time="0111"/>
+				<DEPARTURE date="20121106" time="0111"/>
+				<NAME lang="1" val="Leppävaara"/>
+				<NAME lang="2" val="Alberga"/>
+			</STOP>
+			<STOP code="6:2111256" x="2545702.0" y="6678915.0" id="2862">
+				<ARRIVAL date="20121106" time="0112"/>
+				<DEPARTURE date="20121106" time="0112"/>
+				<NAME lang="1" val="Puustellinmäki"/>
+				<NAME lang="2" val="Boställsbacken"/>
+			</STOP>
+			<STOP code="6:2113206" x="2546440.0" y="6679046.0" id="2892">
+				<ARRIVAL date="20121106" time="0113"/>
+				<DEPARTURE date="20121106" time="0113"/>
+				<NAME lang="1" val="Mäkkylä"/>
+				<NAME lang="2" val="Mäkkylä"/>
+			</STOP>
+			<STOP code="6:2113204" x="2546847.0" y="6679133.0" id="2890">
+				<ARRIVAL date="20121106" time="0113"/>
+				<DEPARTURE date="20121106" time="0113"/>
+				<NAME lang="1" val="Vermo"/>
+				<NAME lang="2" val="Vermo"/>
+			</STOP>
+			<STOP code="6:1463114" x="2547725.0" y="6679482.0" id="2438" ord="15">
+				<ARRIVAL date="20121106" time="0115"/>
+				<DEPARTURE date="20121106" time="0119"/>
+				<NAME lang="1" val="Pitäjänmäen asema"/>
+				<NAME lang="2" val="Sockenbacka station"/>
+			</STOP>
+		</LINE>
+		<LINE id="122" code="1039N 2" type="1" mobility="3">
+			<LENGTH time="8.000" dist="5135.106"/>
+			<STOP code="6:1463114" x="2547725.0" y="6679482.0" id="2438" ord="19">
+				<ARRIVAL date="20121106" time="0115"/>
+				<DEPARTURE date="20121106" time="0119"/>
+				<NAME lang="1" val="Pitäjänmäen asema"/>
+				<NAME lang="2" val="Sockenbacka station"/>
+			</STOP>
+			<STOP code="6:1465111" x="2547915.0" y="6679150.0" id="2466">
+				<ARRIVAL date="20121106" time="0120"/>
+				<DEPARTURE date="20121106" time="0120"/>
+				<NAME lang="1" val="Takkatie"/>
+				<NAME lang="2" val="Spiselvägen"/>
+			</STOP>
+			<STOP code="6:1462106" x="2548006.0" y="6678988.0" id="2435">
+				<ARRIVAL date="20121106" time="0120"/>
+				<DEPARTURE date="20121106" time="0120"/>
+				<NAME lang="1" val="Talin siirt.puutarha"/>
+				<NAME lang="2" val="Tali koloniträdgård"/>
+			</STOP>
+			<STOP code="6:1465104" x="2548410.0" y="6678704.0" id="2464">
+				<ARRIVAL date="20121106" time="0121"/>
+				<DEPARTURE date="20121106" time="0121"/>
+				<NAME lang="1" val="Takomotie"/>
+				<NAME lang="2" val="Smedjevägen"/>
+			</STOP>
+			<STOP code="6:1465102" x="2548762.0" y="6678464.0" id="2462">
+				<ARRIVAL date="20121106" time="0122"/>
+				<DEPARTURE date="20121106" time="0122"/>
+				<NAME lang="1" val="Valimotie"/>
+				<NAME lang="2" val="Gjuterivägen"/>
+			</STOP>
+			<STOP code="6:1291139" x="2548987.0" y="6678012.0" id="1187">
+				<ARRIVAL date="20121106" time="0123"/>
+				<DEPARTURE date="20121106" time="0123"/>
+				<NAME lang="1" val="Vanha viertotie"/>
+				<NAME lang="2" val="Gamla chaussen"/>
+			</STOP>
+			<STOP code="6:1304137" x="2548967.0" y="6677478.0" id="1339">
+				<ARRIVAL date="20121106" time="0124"/>
+				<DEPARTURE date="20121106" time="0124"/>
+				<NAME lang="1" val="Munkkivuori"/>
+				<NAME lang="2" val="Munkshöjden"/>
+			</STOP>
+			<STOP code="6:1301158" x="2549077.0" y="6677036.0" id="1303">
+				<ARRIVAL date="20121106" time="0125"/>
+				<DEPARTURE date="20121106" time="0125"/>
+				<NAME lang="1" val="Niemenmäki"/>
+				<NAME lang="2" val="Näshöjden"/>
+			</STOP>
+			<STOP code="6:1301126" x="2549163.0" y="6676754.0" id="1296">
+				<ARRIVAL date="20121106" time="0125"/>
+				<DEPARTURE date="20121106" time="0125"/>
+				<NAME lang="1" val="Lokkalantie"/>
+				<NAME lang="2" val="Locklaisvägen"/>
+			</STOP>
+			<STOP code="6:1301124" x="2549280.0" y="6676400.0" id="1294">
+				<ARRIVAL date="20121106" time="0126"/>
+				<DEPARTURE date="20121106" time="0126"/>
+				<NAME lang="1" val="Munkkiniemen aukio"/>
+				<NAME lang="2" val="Munksnäsplatsen"/>
+			</STOP>
+			<STOP code="6:1150114" x="2549658.0" y="6676178.0" id="544">
+				<ARRIVAL date="20121106" time="0127"/>
+				<DEPARTURE date="20121106" time="0127"/>
+				<NAME lang="1" val="Paciuksenkaari"/>
+				<NAME lang="2" val="Paciussvängen"/>
+			</STOP>
+			<STOP code="6:1150112" x="2549875.0" y="6676008.0" id="542" ord="30">
+				<ARRIVAL date="20121106" time="0127"/>
+				<DEPARTURE date="20121106" time="0127"/>
+				<NAME lang="1" val="Meilahdentie"/>
+				<NAME lang="2" val="Mejlansvägen"/>
+			</STOP>
+		</LINE>
+		<WALK>
+			<LENGTH time="13.042" dist="924.611"/>
+			<STOP code="6:1150112" x="2549875.0" y="6676008.0" id="542">
+				<ARRIVAL date="20121106" time="0127"/>
+				<DEPARTURE date="20121106" time="0127"/>
+				<NAME lang="1" val="Meilahdentie"/>
+				<NAME lang="2" val="Mejlansvägen"/>
+			</STOP>
+			<MAPLOC x="2549842.7" y="6676012.5" type="0">
+				<ARRIVAL date="20121106" time="0127"/>
+				<DEPARTURE date="20121106" time="0127"/>
+			</MAPLOC>
+			<MAPLOC x="2549806.3" y="6676012.4" type="0">
+				<ARRIVAL date="20121106" time="0128"/>
+				<DEPARTURE date="20121106" time="0128"/>
+				<NAME lang="1" val="Meilahdentie"/>
+			</MAPLOC>
+			<MAPLOC x="2549796.3" y="6676017.1" type="0">
+				<ARRIVAL date="20121106" time="0128"/>
+				<DEPARTURE date="20121106" time="0128"/>
+				<NAME lang="1" val="Meilahdentie"/>
+			</MAPLOC>
+			<MAPLOC x="2549686.4" y="6675917.0" type="0">
+				<ARRIVAL date="20121106" time="0130"/>
+				<DEPARTURE date="20121106" time="0130"/>
+			</MAPLOC>
+			<MAPLOC x="2549715.0" y="6675864.5" type="0">
+				<ARRIVAL date="20121106" time="0131"/>
+				<DEPARTURE date="20121106" time="0131"/>
+			</MAPLOC>
+			<MAPLOC x="2549590.0" y="6675593.0" type="0">
+				<ARRIVAL date="20121106" time="0135"/>
+				<DEPARTURE date="20121106" time="0135"/>
+				<NAME lang="1" val="Heikinniementie"/>
+			</MAPLOC>
+			<MAPLOC x="2549580.8" y="6675521.4" type="0">
+				<ARRIVAL date="20121106" time="0136"/>
+				<DEPARTURE date="20121106" time="0136"/>
+				<NAME lang="1" val="Seurasaarentie"/>
+			</MAPLOC>
+			<MAPLOC x="2549621.9" y="6675495.2" type="0">
+				<ARRIVAL date="20121106" time="0137"/>
+				<DEPARTURE date="20121106" time="0137"/>
+			</MAPLOC>
+			<POINT uid="dest" x="2549445.0" y="6675513.0">
+				<ARRIVAL date="20121106" time="0140"/>
+				<DEPARTURE date="20121106" time="0140"/>
+			</POINT>
+		</WALK>
+		<POINT uid="dest" x="2549445.0" y="6675513.0">
+			<ARRIVAL date="20121106" time="0140"/>
+			<DEPARTURE date="20121106" time="0140"/>
+		</POINT>
+	</ROUTE>
+</MTRXML>
