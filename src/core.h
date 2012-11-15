@@ -1,6 +1,9 @@
 #ifndef CORE_H_
 #define CORE_H_
 
+
+struct core_location {
+    char *
 struct core_location {
     char name[64];
     char number[8];
